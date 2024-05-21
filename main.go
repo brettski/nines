@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/apcera/termtables"
+    termtables	"github.com/brettski/go-termtables"
 )
 
 const hoursInYear float32 = 8760.0
