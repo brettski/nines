@@ -1,4 +1,12 @@
 github.com/brettski/go-termtables v0.0.0-20190907034855-12ddd59af020 h1:0AI3Zj64u2rpzmOrt4u3KUuw97KrMs6mcwNSaM3Rp5c=
 github.com/brettski/go-termtables v0.0.0-20190907034855-12ddd59af020/go.mod h1:m1lFPe1dlzu0nXHuCQVG/w2EeQNMA6h1MAaFLwUYAIM=
+github.com/brettski/go-termtables v1.0.0 h1:9cu35SYGaRMuwsl0Tt3meOmY5Pzu76S5wN+te/ujUHA=
+github.com/brettski/go-termtables v1.0.0/go.mod h1:m1lFPe1dlzu0nXHuCQVG/w2EeQNMA6h1MAaFLwUYAIM=
+github.com/brettski/go-termtables v1.0.1 h1:dyrmqyBDBvj3eQlj0P5T0ORBRVaJEmPkdSEBuLhpZDs=
+github.com/brettski/go-termtables v1.0.1/go.mod h1:BzpDTRv6JGvwnG4K9pXlvctPhKR5RqiqPcK1jTKW+0g=
 github.com/mattn/go-runewidth v0.0.3-0.20170201023540-14207d285c6c h1:jQ6tSGsM/2TGhmbzHl9wXDtm2YjZDAfMsHyxaBDwywA=
 github.com/mattn/go-runewidth v0.0.3-0.20170201023540-14207d285c6c/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
+github.com/mattn/go-runewidth v0.0.16 h1:E5ScNMtiwvlvB5paMFdw9p4kSQzbXFikJ5SQO6TULQc=
+github.com/mattn/go-runewidth v0.0.16/go.mod h1:Jdepj2loyihRzMpdS35Xk/zdY8IAYHsh153qUoGf23w=
+github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
+github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
